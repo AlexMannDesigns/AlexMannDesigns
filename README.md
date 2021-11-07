@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex, AKA @AlexMannDesigns
-- 👀 I’m interested in HTML, CSS, JavaScript, React, MERN stack technologies
-- 🌱 I’m currently learning UX design - my most recent project: https://alexmanndesigns.github.io/thai-restaurant/
+- 👀 I’m interested in web development, algorithms and AI
+- 🌱 I'm currently studying C-programming, full-time, @Hive, Helsinki
 - 📫 How to reach me: send me an email - alex.mann1989@gmail.com
 
 <!---
