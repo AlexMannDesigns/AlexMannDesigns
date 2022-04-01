@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex, AKA @AlexMannDesigns
-- 👀 I’m interested in web development, algorithms and AI
+- 👀 I’m interested in C/C++ and UNIX
 - 🌱 I'm currently studying C-programming, full-time, @Hive, Helsinki
 - 📫 How to reach me: send me an email - alex.mann1989@gmail.com
 
