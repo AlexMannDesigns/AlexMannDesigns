@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Alex, AKA @AlexMannDesigns
-- 👀 I’m interested in C/C++ and UNIX
-- 🌱 I'm currently studying C-programming, full-time, @Hive, Helsinki
+
+- I’m interested in C/C++ and UNIX - I recently built my own versions of the libc function printf, and the unix program ls! See my pinned projects below...👀
+
+- I'm currently studying programming, full-time, @Hive, Helsinki
+
 - 📫 How to reach me: send me an email - alex.mann1989@gmail.com
 
 <!---
