@@ -4,7 +4,7 @@
 
 - I'm currently studying programming, full-time, @Hive, Helsinki
 
-- Also, I do web development! You can find some of my projects here on github, but also on my website (www.alexmanndesigns.com) or codepen (www.codepen.io/kalimarrr)
+- Also, I do web development! You can find some of my projects here on github, check out my codepen (www.codepen.io/kalimarrr)
 
 - 📫 How to reach me: send me an email - alex.mann1989@gmail.com
 
