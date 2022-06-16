@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex, AKA @AlexMannDesigns
 
-- I’m interested in C/C++ and UNIX - I recently built my own versions of the libc function printf, and the unix program ls! See my pinned projects below...👀
+- I’m interested in C/C++ and Unix systems - I recently built my own versions of the libc function printf, and the unix program 'ls'! I'm currently building my very own shell program. See my pinned projects below...👀
 
 - I'm currently studying programming, full-time, @Hive, Helsinki
 
