@@ -6,7 +6,7 @@
 
 - Also, I do web development! You can find some of my projects here on github, check out my codepen for front-end things: (www.codepen.io/kalimarrr)
 
-- 📫 How to reach me: send me an email - alex.mann1989@gmail.com
+- 📫 How to reach me: send me an email - alex.mann.designs@gmail.com
 
 <!---
 AlexMannDesigns/AlexMannDesigns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
