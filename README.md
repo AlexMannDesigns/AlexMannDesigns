@@ -20,7 +20,7 @@ This was my final project at Hive, and was a big milestone. The aim was to imple
 - Areas of focus included lexical analysis and designing and building complex data structures.
 - As well as my coding capabilities, I also strengthened my project planning, communication, teamwork and leadership skills.
 
-For a full overview, click the link to the pinned project below and see the readme 📖
+For a full overview, click the link to the pinned project below and see the readme 📖 or, watch this [youtube video](https://www.youtube.com/watch?v=b0ElN0rlrEs).
 
 ## How to reach me 📫
 
