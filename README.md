@@ -2,11 +2,14 @@
 
 - I’m interested in C/C++ and Unix systems - I recently built my own versions of the libc function printf, and the unix program 'ls'! I'm currently building my very own shell program. See my pinned projects below...👀
 
-- I'm currently studying programming, full-time, @Hive, Helsinki
+- Having graduated from @Hive, Helsinki, I'm now looking for opportunities in software engineering. Please get in touch if you think I'd be a good fit!
 
 - Also, I do web development! You can find some of my projects here on github, check out my codepen for front-end things: (www.codepen.io/kalimarrr)
 
-- 📫 How to reach me: send me an email - alex.mann.designs@gmail.com
+- 📫 How to reach me:
+    - 📧  send me an email - alex.mann.designs@gmail.com 
+    - 📱   call - (+358)408104518
+    - 🤝  connect with me on linkedin https://www.linkedin.com/in/alex-f-mann/
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
