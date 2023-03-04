@@ -10,7 +10,7 @@
 
 - Also, I do web development! You can find some of my projects here on github, check out my codepen for front-end things: (www.codepen.io/kalimarrr)
 
-## 42sh 👨‍💻
+## 42sh 👨‍💻 
 
 This was my final project at Hive, and was a big milestone. The aim was to implement the most stable and complete Unix shell possible. We used bash as our reference and adhered closely to the POSIX standard.
 
@@ -22,13 +22,13 @@ This was my final project at Hive, and was a big milestone. The aim was to imple
 
 For a full overview, click the link to the pinned project below and see the readme 📖
 
-## 📫 How to reach me:
+## How to reach me 📫
 
 - 📧  send me an email: alex.mann.designs@gmail.com 
 - 📱   call: (+358)408104518
 - 🤝  connect with me on linkedin: https://www.linkedin.com/in/alex-f-mann/
 
-## My toolkit 🧰🔧
+## 🧰🔧 My toolkit 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
