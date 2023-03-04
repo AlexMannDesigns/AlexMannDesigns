@@ -28,7 +28,7 @@ For a full overview, click the link to the pinned project below and see the read
 - 📱   call: (+358)408104518
 - 🤝  connect with me on linkedin: https://www.linkedin.com/in/alex-f-mann/
 
-
+## My toolkit 🧰🔧
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -37,6 +37,7 @@ For a full overview, click the link to the pinned project below and see the read
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## My stats 📈
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexMannDesigns&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!---
