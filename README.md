@@ -6,7 +6,7 @@
 
 - My programming education focused on C and Unix systems. My big projects were the shell programs linked below 👀 I'm currently learning Python 🐍
 
-- Having graduated from @Hive, Helsinki, I'm now looking for opportunities in software engineering. Please get in touch if you think I'd be a good fit!
+- Having graduated from @Hive, Helsinki, I'm now looking for opportunities in software engineering in Finland. Please get in touch if you think I'd be a good fit!
 
 - Also, I do web development! You can find some of my projects here on github, check out my codepen for front-end things: (www.codepen.io/kalimarrr)
 
