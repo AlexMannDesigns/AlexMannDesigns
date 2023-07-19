@@ -6,7 +6,7 @@
 
 - My programming education focused on C and Unix systems. My big projects were the shell programs linked below 👀 I'm currently learning Python 🐍
 
-- Having graduated from @Hive, Helsinki, I'm now working as a Jr. Test Engineer at Oura Health Oy, based in Oulu, Finland.
+- Having graduated from @Hive, Helsinki, I'm now working as a Jr. Test Engineer at [Oura](http://ouraring.com/), based in Oulu, Finland.
 
 - Also, I do web development! You can find some of my projects here on github, check out my codepen for front-end things: (www.codepen.io/kalimarrr)
 
