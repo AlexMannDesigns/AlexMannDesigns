@@ -8,8 +8,6 @@
 
 - Having graduated from @Hive, Helsinki, I have worked an internship as a Test Automation Engineer at [Oura](http://ouraring.com/). I'm now a Software Engineer at [Wolt](https://wolt.com/).
 
-- Also, I do web development! You can find some of my projects here on github, check out my codepen for front-end things: (www.codepen.io/kalimarrr)
-
 ## 42sh 👨‍💻 
 
 This was my final project at Hive, and was a big milestone. The aim was to implement the most stable and complete Unix shell possible. We used bash as our reference and adhered closely to the POSIX standard.
