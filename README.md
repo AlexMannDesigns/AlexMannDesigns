@@ -23,7 +23,6 @@ For a full overview, click the link to the pinned project below and see the read
 ## How to reach me 📫
 
 - 📧  send me an email: alex.mann.designs@gmail.com 
-- 📱   call: (+358)408104518
 - 🤝  connect with me on linkedin: https://www.linkedin.com/in/alex-f-mann/
 
 ## My toolkit 🧰🔧 
