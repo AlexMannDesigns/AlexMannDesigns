@@ -55,7 +55,7 @@ For a full overview, click the link to the pinned project below and see the read
 _These cool badges were found [here](https://home.aveek.io/GitHub-Profile-Badges/)_
 
 ## My stats 📈
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexMannDesigns&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=AlexMannDesigns&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!---
 AlexMannDesigns/AlexMannDesigns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
